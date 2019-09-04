@@ -1,6 +1,6 @@
 {
   "name": "actions-context",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple context management for GitHub actions",
   "main": "context.js",
   "scripts": {
